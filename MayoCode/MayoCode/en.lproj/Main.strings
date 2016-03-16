@@ -1,0 +1,216 @@
+
+/* Class = "UILabel"; text = "Lesson 20: Bubble Sort "; ObjectID = "1d4-3x-i0w"; */
+"1d4-3x-i0w.text" = "Lesson 20: Bubble Sort ";
+
+/* Class = "UITextView"; text = "#include <iostream>\nusing namespace std;\nint main()\n{\n\t                       \n}"; ObjectID = "2TA-BN-D8r"; */
+"2TA-BN-D8r.text" = "#include <iostream>\nusing namespace std;\nint main()\n{\n\t                       \n}";
+
+/* Class = "UIViewController"; title = "Lesson 1"; ObjectID = "2ZV-hS-xrl"; */
+"2ZV-hS-xrl.title" = "Lesson 1";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "3vl-5w-5i8"; */
+"3vl-5w-5i8.normalTitle" = "<";
+
+/* Class = "UIBarButtonItem"; title = "Main Menu"; ObjectID = "5EB-Ec-j7f"; */
+"5EB-Ec-j7f.title" = "Main Menu";
+
+/* Class = "UINavigationItem"; title = "Lesson 2"; ObjectID = "5VV-eS-Epk"; */
+"5VV-eS-Epk.title" = "Lesson 2";
+
+/* Class = "UIButton"; normalTitle = "Lesson Select"; ObjectID = "5oT-Nq-lzZ"; */
+"5oT-Nq-lzZ.normalTitle" = "Lesson Select";
+
+/* Class = "UILabel"; text = "Lesson 22: Selection Sort "; ObjectID = "6V4-lW-1Wj"; */
+"6V4-lW-1Wj.text" = "Lesson 22: Selection Sort ";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "7DU-1H-2fZ"; */
+"7DU-1H-2fZ.title" = "<";
+
+/* Class = "UINavigationItem"; title = "Lesson 1 Test"; ObjectID = "8iK-jQ-OZa"; */
+"8iK-jQ-OZa.title" = "Lesson 1 Test";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "8jR-Bm-78a"; */
+"8jR-Bm-78a.title" = "<";
+
+/* Class = "UILabel"; text = "Lesson 24: Quick Sort "; ObjectID = "926-md-Afb"; */
+"926-md-Afb.text" = "Lesson 24: Quick Sort ";
+
+/* Class = "UILabel"; text = "Lesson 4: Strings "; ObjectID = "AYL-Fx-emc"; */
+"AYL-Fx-emc.text" = "Lesson 4: Strings ";
+
+/* Class = "UILabel"; text = "Lesson 19: Inheritance "; ObjectID = "CiM-qz-rRb"; */
+"CiM-qz-rRb.text" = "Lesson 19: Inheritance ";
+
+/* Class = "UIButton"; normalTitle = "Lesson Select"; ObjectID = "D2O-lO-x3I"; */
+"D2O-lO-x3I.normalTitle" = "Lesson Select";
+
+/* Class = "UILabel"; text = "Lesson 26: Binary Search "; ObjectID = "EO3-kb-CuO"; */
+"EO3-kb-CuO.text" = "Lesson 26: Binary Search ";
+
+/* Class = "UILabel"; text = "Lesson 27: Files "; ObjectID = "H4A-Wp-TRc"; */
+"H4A-Wp-TRc.text" = "Lesson 27: Files ";
+
+/* Class = "UIViewController"; title = "Lesson 1 Test"; ObjectID = "HfM-wt-DYr"; */
+"HfM-wt-DYr.title" = "Lesson 1 Test";
+
+/* Class = "UIBarButtonItem"; title = "Main Menu"; ObjectID = "MRG-nv-58C"; */
+"MRG-nv-58C.title" = "Main Menu";
+
+/* Class = "UITableViewController"; title = "Lesson Select"; ObjectID = "Mkc-sZ-thH"; */
+"Mkc-sZ-thH.title" = "Lesson Select";
+
+/* Class = "UILabel"; text = "Lesson 6: Operators "; ObjectID = "My9-Rw-p5t"; */
+"My9-Rw-p5t.text" = "Lesson 6: Operators ";
+
+/* Class = "UIViewController"; title = "Lesson 2"; ObjectID = "NsP-0J-07F"; */
+"NsP-0J-07F.title" = "Lesson 2";
+
+/* Class = "UIViewController"; title = "Main Menu"; ObjectID = "O01-8O-uGb"; */
+"O01-8O-uGb.title" = "Main Menu";
+
+/* Class = "UILabel"; text = "Lesson 9: Arrays"; ObjectID = "OgN-B5-WQ9"; */
+"OgN-B5-WQ9.text" = "Lesson 9: Arrays";
+
+/* Class = "UILabel"; text = "Lesson 28: #include/namespace "; ObjectID = "OrI-Mb-JDj"; */
+"OrI-Mb-JDj.text" = "Lesson 28: #include/namespace ";
+
+/* Class = "UILabel"; text = "Lesson 13: Whie Loops "; ObjectID = "PAM-3v-9jk"; */
+"PAM-3v-9jk.text" = "Lesson 13: Whie Loops ";
+
+/* Class = "UILabel"; text = "Lesson 2"; ObjectID = "Qhx-zt-GIC"; */
+"Qhx-zt-GIC.text" = "Lesson 2";
+
+/* Class = "UILabel"; text = "Lesson 16: Object Behavior "; ObjectID = "R8I-es-025"; */
+"R8I-es-025.text" = "Lesson 16: Object Behavior ";
+
+/* Class = "UIButton"; normalTitle = "Test"; ObjectID = "Snn-Zg-Fc9"; */
+"Snn-Zg-Fc9.normalTitle" = "Test";
+
+/* Class = "UILabel"; text = "Lesson 11: Vectors "; ObjectID = "TCT-bp-QTL"; */
+"TCT-bp-QTL.text" = "Lesson 11: Vectors ";
+
+/* Class = "UILabel"; text = "Lesson 5: Input "; ObjectID = "Tk8-8Q-tuP"; */
+"Tk8-8Q-tuP.text" = "Lesson 5: Input ";
+
+/* Class = "UILabel"; text = "Lesson 1: Output"; ObjectID = "V3s-rE-DzJ"; */
+"V3s-rE-DzJ.text" = "Lesson 1: Output";
+
+/* Class = "UILabel"; text = "Lesson 7:  If, Else Statements"; ObjectID = "VHQ-g4-feP"; */
+"VHQ-g4-feP.text" = "Lesson 7:  If, Else Statements";
+
+/* Class = "UINavigationItem"; title = "Lesson 1 Lesson"; ObjectID = "VdP-MH-7sB"; */
+"VdP-MH-7sB.title" = "Lesson 1 Lesson";
+
+/* Class = "UITextView"; text = "Prints out \"Hello World!\" to the console"; ObjectID = "Vjo-Bt-M1V"; */
+"Vjo-Bt-M1V.text" = "Prints out \"Hello World!\" to the console";
+
+/* Class = "UIButton"; normalTitle = "Lesson Select"; ObjectID = "WiL-IX-n0V"; */
+"WiL-IX-n0V.normalTitle" = "Lesson Select";
+
+/* Class = "UILabel"; text = "Lesson 14: Functions "; ObjectID = "Wjv-YO-549"; */
+"Wjv-YO-549.text" = "Lesson 14: Functions ";
+
+/* Class = "UILabel"; text = "TEST"; ObjectID = "YIG-wo-HIt"; */
+"YIG-wo-HIt.text" = "TEST";
+
+/* Class = "UIBarButtonItem"; title = ">"; ObjectID = "Ygg-Rn-hxH"; */
+"Ygg-Rn-hxH.title" = ">";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "bEG-aO-dgO"; */
+"bEG-aO-dgO.title" = "<";
+
+/* Class = "UILabel"; text = "Lesson 21: Insertion Sort "; ObjectID = "bP2-AY-fyi"; */
+"bP2-AY-fyi.text" = "Lesson 21: Insertion Sort ";
+
+/* Class = "UIButton"; normalTitle = "Lessons"; ObjectID = "cFG-oA-iy3"; */
+"cFG-oA-iy3.normalTitle" = "Lessons";
+
+/* Class = "UILabel"; text = "Output"; ObjectID = "cND-je-lmp"; */
+"cND-je-lmp.text" = "Output";
+
+/* Class = "UIButton"; normalTitle = "Code Sample"; ObjectID = "dWU-or-2pw"; */
+"dWU-or-2pw.normalTitle" = "Code Sample";
+
+/* Class = "UILabel"; text = "Lesson 10: Two-Dimensional Arrays"; ObjectID = "eyW-Ec-2yV"; */
+"eyW-Ec-2yV.text" = "Lesson 10: Two-Dimensional Arrays";
+
+/* Class = "UIButton"; normalTitle = "Start Lesson"; ObjectID = "fCn-4d-Cer"; */
+"fCn-4d-Cer.normalTitle" = "Start Lesson";
+
+/* Class = "UINavigationItem"; title = "Code Sample"; ObjectID = "fDf-oU-X21"; */
+"fDf-oU-X21.title" = "Code Sample";
+
+/* Class = "UIBarButtonItem"; title = ">"; ObjectID = "fte-pz-Ne0"; */
+"fte-pz-Ne0.title" = ">";
+
+/* Class = "UILabel"; text = "Lesson 1"; ObjectID = "gkb-gs-e1g"; */
+"gkb-gs-e1g.text" = "Lesson 1";
+
+/* Class = "UIButton"; normalTitle = "cout << \"Hello World!\";"; ObjectID = "ikq-p9-YNd"; */
+"ikq-p9-YNd.normalTitle" = "cout << \"Hello World!\";";
+
+/* Class = "UIButton"; normalTitle = "Code Sample"; ObjectID = "jwZ-TD-MqH"; */
+"jwZ-TD-MqH.normalTitle" = "Code Sample";
+
+/* Class = "UIButton"; normalTitle = "Lesson Select"; ObjectID = "kLj-ys-kkH"; */
+"kLj-ys-kkH.normalTitle" = "Lesson Select";
+
+/* Class = "UILabel"; text = "Lesson 25: Sequential Search "; ObjectID = "lCs-Ka-MKI"; */
+"lCs-Ka-MKI.text" = "Lesson 25: Sequential Search ";
+
+/* Class = "UITextView"; text = "In most programs, there are three basic steps to the actual software; Input, Processing, and Output (IPO). Input is the first part of most programs, which is where you get any information you need from the user of the program. Processing is the calculations and data modification in the code. And Output is how you give information back to the user. It’s like a conversation between the programmer and the user. Even though this may seem backwards, this first lesson will cover the LAST phase of the IPO process, a necessity for programming. Output. In C++, output is managed by cout statements and is a part of the iostream package. The iostream part will be important later, however, for now all you need to know is that you have to preface every program containing cout statements with #include <iostream>. Output using the cout statements prints to the console, which is the computer itself. This displays text to the user, but not in any sort of GUI, or graphic user interface. "; ObjectID = "lRJ-r9-MVf"; */
+"lRJ-r9-MVf.text" = "In most programs, there are three basic steps to the actual software; Input, Processing, and Output (IPO). Input is the first part of most programs, which is where you get any information you need from the user of the program. Processing is the calculations and data modification in the code. And Output is how you give information back to the user. It’s like a conversation between the programmer and the user. Even though this may seem backwards, this first lesson will cover the LAST phase of the IPO process, a necessity for programming. Output. In C++, output is managed by cout statements and is a part of the iostream package. The iostream part will be important later, however, for now all you need to know is that you have to preface every program containing cout statements with #include <iostream>. Output using the cout statements prints to the console, which is the computer itself. This displays text to the user, but not in any sort of GUI, or graphic user interface. ";
+
+/* Class = "UIButton"; normalTitle = "Start Lesson"; ObjectID = "n4B-IG-8Ch"; */
+"n4B-IG-8Ch.normalTitle" = "Start Lesson";
+
+/* Class = "UIBarButtonItem"; title = "Main Menu"; ObjectID = "o05-Pd-r5D"; */
+"o05-Pd-r5D.title" = "Main Menu";
+
+/* Class = "UILabel"; text = "Lesson 2: Variables and Data Types "; ObjectID = "p2q-sM-qcL"; */
+"p2q-sM-qcL.text" = "Lesson 2: Variables and Data Types ";
+
+/* Class = "UILabel"; text = "Lesson 3: Conversions and Type-Casting "; ObjectID = "p6P-FV-sU6"; */
+"p6P-FV-sU6.text" = "Lesson 3: Conversions and Type-Casting ";
+
+/* Class = "UILabel"; text = "Lesson 8: Switch Statements "; ObjectID = "poR-tr-gb9"; */
+"poR-tr-gb9.text" = "Lesson 8: Switch Statements ";
+
+/* Class = "UILabel"; text = "Lesson 15: OOP"; ObjectID = "rEN-ao-nw2"; */
+"rEN-ao-nw2.text" = "Lesson 15: OOP";
+
+/* Class = "UIButton"; normalTitle = "Lesson Select"; ObjectID = "rND-Vg-vXX"; */
+"rND-Vg-vXX.normalTitle" = "Lesson Select";
+
+/* Class = "UINavigationItem"; title = "Lesson 1"; ObjectID = "rRh-yb-Ub8"; */
+"rRh-yb-Ub8.title" = "Lesson 1";
+
+/* Class = "UIBarButtonItem"; title = "Main Menu"; ObjectID = "sP9-dG-aBg"; */
+"sP9-dG-aBg.title" = "Main Menu";
+
+/* Class = "UIBarButtonItem"; title = "Main Menu"; ObjectID = "tK7-ry-Ebo"; */
+"tK7-ry-Ebo.title" = "Main Menu";
+
+/* Class = "UILabel"; text = "Lesson 12: For Loops "; ObjectID = "tPb-vd-pZs"; */
+"tPb-vd-pZs.text" = "Lesson 12: For Loops ";
+
+/* Class = "UILabel"; text = "Lesson 17: Designing Classes "; ObjectID = "tbQ-x2-Afy"; */
+"tbQ-x2-Afy.text" = "Lesson 17: Designing Classes ";
+
+/* Class = "UILabel"; text = "Lesson 18: Recursion "; ObjectID = "uo9-k4-8po"; */
+"uo9-k4-8po.text" = "Lesson 18: Recursion ";
+
+/* Class = "UIButton"; normalTitle = "Test"; ObjectID = "wXQ-fA-WVB"; */
+"wXQ-fA-WVB.normalTitle" = "Test";
+
+/* Class = "UIViewController"; title = "Lesson 1 Lesson"; ObjectID = "war-zg-iQX"; */
+"war-zg-iQX.title" = "Lesson 1 Lesson";
+
+/* Class = "UILabel"; text = "Lesson 23: Merge Sort "; ObjectID = "xZ7-X3-nGi"; */
+"xZ7-X3-nGi.text" = "Lesson 23: Merge Sort ";
+
+/* Class = "UILabel"; text = "Variables and Data Types"; ObjectID = "ydY-HB-i69"; */
+"ydY-HB-i69.text" = "Variables and Data Types";
+
+/* Class = "UIViewController"; title = "Lesson 1 Code Sample"; ObjectID = "yv8-1j-QjH"; */
+"yv8-1j-QjH.title" = "Lesson 1 Code Sample";
