@@ -15,6 +15,7 @@ class Arrays
                             /*Lesson 3(2)*/ "#include <iostream>\nusing namespace std;\n\nint main()\n{\n\tint a;\n\tdouble b = 1.5;\n\tdouble c;\n\tfloat d = 2.5;\n\tc = d;\n\ta = (int)b;\n}",
                             /*Lesson 4(3)*/"#include <iostream>\nusing namespace std;\nint main()\n{\n\tstring myText = “Hello world!”;\n\tcout << myText;\n}",
                             /*Lesson 5(4)*/"#include <iostream>\nusing namespace std;\n\nint main()\n{\n\tint number;\n\tcout << “Enter a number : “;\n\tcin  >> number;\n}",
+                            /*Lesson 6(5)*/"#include <iostream>\nusing namespace std;\n\nint main()\n{\n\tint a = 5, b = 2, c;\n\tcout << \"Please input a number: \" << endl;\n\tcin >> c;\n\tcout << (a + b) % b * (a / b);\n\tcout << a++\n\tcout << —b;\n\n\tif ((a==b || a!=b) && (a >= b && !(a < b)))\n\t{\n\t\tcout << \"This is true!”;\n\t}\n}",
                            ]
     //***************************************************************Separate Arrays***********************************************************************
     let cDesc: [[String]] = [
@@ -27,7 +28,9 @@ class Arrays
                             /*3*/[/*Empty*/],
         
                             /*4*/["Console will pause and wait for the user to input and then hit \"Enter\"","The user’s input is stored in number"],
-                            /*5*/[],
+        
+                            /*5*/["The assignment operator in action! a is now 5, and b is not 2!", "This prints \"Please input a number: \" to the console, so the user can see it.", "This puts whatever the user types into the console into the variable c.", "Order of operations! Whatever is in the parenthesis is done first, then any division, multiplication, or modulo, in the order its put. Then addition and subtraction in the order they're put. So this would output 2, because a+b = 7, and then a/b comes out as 2, 7%b = 1, times 2 = 2.", "This outprints 5, because the incrementation happens AFTER the value is couted.", "This prints out 1, because the decrementor works BEFORE the value is couted.", "This if statement will only run if this statement is true. See if you can work out for yourself if the cout statement will run!", "“This code will run.”"],
+        
                             /*6*/[],
                             /*7*/[],
                             /*8*/[],
