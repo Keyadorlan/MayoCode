@@ -44,6 +44,7 @@ class ViewController: UIViewController, UIGestureRecognizerDelegate
         // character index at tap location
         let characterIndex = layoutManager.characterIndexForPoint(location, inTextContainer: myTextView.textContainer, fractionOfDistanceBetweenInsertionPoints: nil)
         textView.cPos = characterIndex
+        //textView.text = textView.text + " \(textView.cPos)"
         descriptor.called(myTextView)
     }
     
